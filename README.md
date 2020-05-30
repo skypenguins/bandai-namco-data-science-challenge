@@ -16,5 +16,8 @@ I used a pix2pix model to achieve this competition.
 
 ## Prerequisites
   - [become-yukarin](https://github.com/Hiroshiba/become-yukarin)
+  - librosa - for convert_to_wav.py
+  - numpy - for convert_to_wav.py
+
 ## License
 [MIT License](./LICENSE)
