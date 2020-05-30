@@ -14,5 +14,5 @@ The voice data was converted into Mel Spectrogram.
 ## My solution
 I used a pix2pix model to achieve this competition.
 
-### Licence
+## Licence
 [MIT Licence](./LICENCE)
