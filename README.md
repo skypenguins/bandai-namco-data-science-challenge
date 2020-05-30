@@ -14,5 +14,7 @@ The voice data was converted into Mel Spectrogram.
 ## My solution
 I used a pix2pix model to achieve this competition.
 
+## Prerequisites
+  - [become-yukarin](https://github.com/Hiroshiba/become-yukarin)
 ## License
 [MIT License](./LICENSE)
