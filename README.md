@@ -6,10 +6,10 @@ The objective of this competition was to remove the artificial noise from the gi
 The voice data was converted into Mel Spectrogram.
 
 ### Dataset
-  - `raw\[0-9\]\{3\}.npy`
+  - `raw[0-9]\{3}.npy`
     - Mel Spectrogram of raw voice data
     - 100 files
-  - `noised_tgt_\[0-9\]\{3\}.npy`
+  - `noised_tgt_[0-9]{3}.npy`
     - Mel Spectrogram of noised voice data
     - 30 files
 
